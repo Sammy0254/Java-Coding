@@ -1,2 +1,2 @@
 # Java-Coding
-Java Clock
+A Simple Java Clock
